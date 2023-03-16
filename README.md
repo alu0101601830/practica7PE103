@@ -4,5 +4,5 @@
 
 La page se encuentra en: https://alu0101601830.github.io/practica7PE103/
 
-## Ejercicio 1 y ejercicio 2
+## Ejercicio 1 y Ejercicio 2
 Realizados
