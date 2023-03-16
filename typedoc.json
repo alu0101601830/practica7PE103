@@ -1,0 +1,23 @@
+{
+  "entryPoints": [
+    "./src/ejercicio-1/BasicStreamableCollection.ts",
+    "./src/ejercicio-1/DocumentalesCollection.ts",
+    "./src/ejercicio-1/Media.ts",
+    "./src/ejercicio-1/PeliculasCollection.ts",
+    "./src/ejercicio-1/SeriesCollection.ts",
+    "./src/ejercicio-1/Streamable.ts",
+    "./src/ejercicio-2/Lista.ts",
+    "./src/ejercicio-3/Artista.ts",
+    "./src/ejercicio-3/Biblioteca.ts",
+    "./src/ejercicio-3/Cancion.ts",
+    "./src/ejercicio-3/Disco.ts",
+    "./src/ejercicio-3/Discografia.ts",
+    "./src/ejercicio-3/Single.ts",
+    "./src/ejercicioPE103/Collectable.ts",
+    "./src/ejercicioPE103/NumericSearchableCollection.ts",
+    "./src/ejercicioPE103/Searchable.ts",
+    "./src/ejercicioPE103/SearchableCollection.ts",
+    "./src/ejercicioPE103/StringSearchableCollection.ts"
+  ],
+  "out": "./docs"
+}
