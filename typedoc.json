@@ -1,6 +1,7 @@
 {
   "entryPoints": [
-    "./src/ejercicio1PE103_p7/ImperialLength.ts"
+    "./src/ejercicio1PE103_p7/ImperialLength.ts",
+    "./src/ejercicio2PE103_p7/MetricLength.ts"
   ],
   "out": "./docs"
 }
