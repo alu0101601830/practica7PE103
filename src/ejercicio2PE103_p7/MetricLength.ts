@@ -64,21 +64,11 @@ export class MetricLength{
         return imperial;
     }
     /**
-     * Método que pasa de pulgadas a centimetros
-     * @param pulgadas 
-     * @returns Las pulgadas en centimetros
-     */
-    pulgadasACentimetros(pulgadas: number): number{
-        let centimetros = pulgadas * 2.54;
-        return centimetros;
-    }
-    /**
      * Setter que pone el nuevo valor en la clase en pulgadas
      * @param nuevo Número que queremos que sea el nuevo valor
      */
     set_pulgadas(nuevo: number){
-        let imperial = new ImperialLength(nuevo)
-        this._valor = this.pulgadasACentimetros(imperial.get_pulgadas());
+        this._valor = nuevo * 2.54;
     }
     /**
      * Getter que devuelve el valor en pulgadas
